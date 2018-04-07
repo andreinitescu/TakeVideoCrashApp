@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeVideoCrashApp.Android", "TakeVideoCrashApp\TakeVideoCrashApp.Android\TakeVideoCrashApp.Android.csproj", "{713959BD-0C09-4866-83D4-2EB634794452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeVideoCrashApp", "TakeVideoCrashApp\TakeVideoCrashApp\TakeVideoCrashApp.csproj", "{1E45BFF1-5862-4A36-A82D-AFCDC75153EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{713959BD-0C09-4866-83D4-2EB634794452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713959BD-0C09-4866-83D4-2EB634794452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713959BD-0C09-4866-83D4-2EB634794452}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{713959BD-0C09-4866-83D4-2EB634794452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713959BD-0C09-4866-83D4-2EB634794452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{713959BD-0C09-4866-83D4-2EB634794452}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1E45BFF1-5862-4A36-A82D-AFCDC75153EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E45BFF1-5862-4A36-A82D-AFCDC75153EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E45BFF1-5862-4A36-A82D-AFCDC75153EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E45BFF1-5862-4A36-A82D-AFCDC75153EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D2CCEA2-BB3F-4DD8-B7BA-184A1D5A401A}
+	EndGlobalSection
+EndGlobal
